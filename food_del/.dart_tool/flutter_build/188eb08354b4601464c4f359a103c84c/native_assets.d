@@ -1,0 +1,1 @@
+ C:\\Users\\samar\\Downloads\\app_project--revamp_18_4\\app_project--revamp_18_4\\.dart_tool\\flutter_build\\188eb08354b4601464c4f359a103c84c\\native_assets.yaml: 

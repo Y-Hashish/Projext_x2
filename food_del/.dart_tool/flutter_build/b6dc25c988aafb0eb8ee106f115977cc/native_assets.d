@@ -1,0 +1,1 @@
+ D:\\food\ deliveery\ app\ project\\food\ deliveery\ app\ project\\.dart_tool\\flutter_build\\b6dc25c988aafb0eb8ee106f115977cc\\native_assets.yaml: 
